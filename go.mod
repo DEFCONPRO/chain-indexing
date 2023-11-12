@@ -10,7 +10,6 @@ require (
 	github.com/cosmos/cosmos-sdk v0.46.2
 	github.com/ettle/strcase v0.1.1
 	github.com/fasthttp/router v1.3.3
-	github.com/gogo/protobuf v1.3.3
 	github.com/golang-migrate/migrate/v4 v4.15.1
 	github.com/google/go-querystring v1.0.0
 	github.com/google/uuid v1.3.0
@@ -28,7 +27,7 @@ require (
 	github.com/rs/zerolog v1.27.0
 	github.com/stretchr/testify v1.8.0
 	github.com/tendermint/tendermint v0.34.21
-	github.com/valyala/fasthttp v1.17.0
+	github.com/valyala/fasthttp v1.34.0
 	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4
 	gopkg.in/yaml.v2 v2.4.0
 )
@@ -39,7 +38,7 @@ require (
 	filippo.io/edwards25519 v1.0.0-rc.1 // indirect
 	github.com/99designs/go-keychain v0.0.0-20160105221929-9cf53c87839c // indirect
 	github.com/ChainSafe/go-schnorrkel v0.0.0-20200405005733-88cbf1b4c40d // indirect
-	github.com/andybalholm/brotli v1.0.0 // indirect
+	github.com/andybalholm/brotli v1.0.4 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/btcsuite/btcd v0.22.1 // indirect
 	github.com/cespare/xxhash v1.1.0 // indirect
@@ -58,6 +57,7 @@ require (
 	github.com/go-kit/kit v0.12.0 // indirect
 	github.com/go-kit/log v0.2.1 // indirect
 	github.com/go-logfmt/logfmt v0.5.1 // indirect
+	github.com/gogo/protobuf v1.3.3 // indirect
 	github.com/golang/glog v1.0.0 // indirect
 	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/golang/snappy v0.0.4 // indirect
